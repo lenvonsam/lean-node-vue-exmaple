@@ -3,6 +3,9 @@
 一个简单的使用 Express 4 的 Node.js 应用整合了Vue。
 可以运行在 LeanEngine Node.js 运行时环境。
 
+## DEMO
+[demo live](https://http://nodevueleancloud.leanapp.cn/)
+
 ## 本地运行
 
 首先确认本机已经安装 [Node.js](http://nodejs.org/) 运行环境和 [LeanCloud 命令行工具](https://www.leancloud.cn/docs/leanengine_cli.html)，然后执行下列指令：
@@ -37,4 +40,6 @@ lean up
 ```
 
 应用即可启动运行：[localhost:3000](http://localhost:3000)
+
+
 
