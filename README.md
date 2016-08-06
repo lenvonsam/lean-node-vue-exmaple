@@ -4,7 +4,7 @@
 可以运行在 LeanEngine Node.js 运行时环境。
 
 ## DEMO
-[demo live](https://http://nodevueleancloud.leanapp.cn/)
+[demo live](https://nodevueleancloud.leanapp.cn/)
 
 ## 本地运行
 
